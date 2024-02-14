@@ -1,7 +1,7 @@
 # Project Description -
 # Project
 
-Welcome to the We are excited to introduce our premium service bundle offer designed to cater to a variety of needs while providing exceptional value to our customers. This bundle comprises a selection of our most sought-after services, carefully curated to meet diverse requirements and budgets.
+Welcome to introduce our premium service bundle offer designed to cater to a variety of needs while providing exceptional value to our customers. This bundle comprises a selection of our most sought-after services, carefully curated to meet diverse requirements and budgets.
 
 ## Installation
 
